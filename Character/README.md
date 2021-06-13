@@ -9,3 +9,7 @@
 ## 2. Run the file manager script
 
 ### For the rest are open and run notebooks
+
+# Credit
+
+The data gets from https://archive.ics.uci.edu/ml/datasets/Artificial+Characters

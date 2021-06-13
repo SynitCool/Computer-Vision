@@ -7,3 +7,5 @@
  - Unzip test.zip to get test data
 
 ## 2. Run the file manager script
+
+### For the rest are open and run notebooks
